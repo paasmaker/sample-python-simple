@@ -12,5 +12,3 @@ instances:
       parameters:
         launch_command: "python app.py"
       version: 1
-    placement:
-      plugin: paasmaker.placement.default
